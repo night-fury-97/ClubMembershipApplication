@@ -1,0 +1,10 @@
+D:\DotNet-Projects\ClubMembershipApplication\ClubMembershipApplication\FieldValidatorAPI\bin\Debug\netstandard2.0\FieldValidatorAPI.deps.json
+D:\DotNet-Projects\ClubMembershipApplication\ClubMembershipApplication\FieldValidatorAPI\bin\Debug\netstandard2.0\FieldValidatorAPI.dll
+D:\DotNet-Projects\ClubMembershipApplication\ClubMembershipApplication\FieldValidatorAPI\bin\Debug\netstandard2.0\FieldValidatorAPI.pdb
+D:\DotNet-Projects\ClubMembershipApplication\ClubMembershipApplication\FieldValidatorAPI\obj\Debug\netstandard2.0\FieldValidatorAPI.csproj.AssemblyReference.cache
+D:\DotNet-Projects\ClubMembershipApplication\ClubMembershipApplication\FieldValidatorAPI\obj\Debug\netstandard2.0\FieldValidatorAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNet-Projects\ClubMembershipApplication\ClubMembershipApplication\FieldValidatorAPI\obj\Debug\netstandard2.0\FieldValidatorAPI.AssemblyInfoInputs.cache
+D:\DotNet-Projects\ClubMembershipApplication\ClubMembershipApplication\FieldValidatorAPI\obj\Debug\netstandard2.0\FieldValidatorAPI.AssemblyInfo.cs
+D:\DotNet-Projects\ClubMembershipApplication\ClubMembershipApplication\FieldValidatorAPI\obj\Debug\netstandard2.0\FieldValidatorAPI.csproj.CoreCompileInputs.cache
+D:\DotNet-Projects\ClubMembershipApplication\ClubMembershipApplication\FieldValidatorAPI\obj\Debug\netstandard2.0\FieldValidatorAPI.dll
+D:\DotNet-Projects\ClubMembershipApplication\ClubMembershipApplication\FieldValidatorAPI\obj\Debug\netstandard2.0\FieldValidatorAPI.pdb
